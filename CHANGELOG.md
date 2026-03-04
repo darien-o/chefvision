@@ -32,5 +32,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Configuration file for model weights and parameters
 - Example detection scripts with various configurations
 
-[Unreleased]: https://github.com/yourusername/chefvision/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/yourusername/chefvision/releases/tag/v0.1.0
+[Unreleased]: https://github.com/darien-o/chefvision/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/darien-o/chefvision/releases/tag/v0.1.0

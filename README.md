@@ -37,7 +37,7 @@ The fusion algorithm uses Intersection over Union (IoU) for spatial clustering a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chefvision.git
+git clone https://github.com/darien-o/chefvision.git
 cd chefvision
 ```
 

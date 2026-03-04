@@ -960,6 +960,6 @@ curl -X POST -F "image=@photo.jpg" http://localhost:5000/detect
 ---
 
 **Need Help?** If you encounter issues not covered here, please:
-1. Check [GitHub Issues](https://github.com/yourusername/chefvision/issues)
+1. Check [GitHub Issues](https://github.com/darien-o/chefvision/issues)
 2. Create a new issue with details about your problem
 3. See [CONTRIBUTING.md](../CONTRIBUTING.md) for community support channels

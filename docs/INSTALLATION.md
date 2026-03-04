@@ -165,14 +165,14 @@ python --version
 #### Using Git
 
 ```bash
-git clone https://github.com/yourusername/chefvision.git
+git clone https://github.com/darien-o/chefvision.git
 cd chefvision
 ```
 
 #### Using GitHub CLI
 
 ```bash
-gh repo clone yourusername/chefvision
+gh repo clone darien-o/chefvision
 cd chefvision
 ```
 
@@ -631,7 +631,7 @@ sudo dnf install mesa-libGL glib2 libSM libXext libXrender
 
 If you encounter issues not covered in this guide:
 
-1. **Check existing issues**: [GitHub Issues](https://github.com/yourusername/chefvision/issues)
+1. **Check existing issues**: [GitHub Issues](https://github.com/darien-o/chefvision/issues)
 2. **Create a new issue**: Include:
    - Operating system and version
    - Python version (`python --version`)
