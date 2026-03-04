@@ -1,0 +1,9 @@
+# Development Dependencies
+# Testing frameworks
+pytest>=7.4.0
+hypothesis>=6.82.0
+
+# Code quality tools
+black>=23.7.0
+flake8>=6.1.0
+mypy>=1.5.0
